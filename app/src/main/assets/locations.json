@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "address": {
+      "street": "Taj Mahal",
+      "city": "Agra",
+      "state": "India"
+    },
+    "description": "An immense mausoleum of white marble, built in Agra between 1631 and 1648 by order of the Mughal emperor Shah Jahan in memory of his favourite wife, the Taj Mahal is the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage. An immense mausoleum of white marble, built in Agra between 1631 and 1648 by order of the Mughal emperor Shah Jahan in memory of his favourite wife, the Taj Mahal is the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage. An immense mausoleum of white marble, built in Agra between 1631 and 1648 by order of the Mughal emperor Shah Jahan in memory of his favourite wife, the Taj Mahal is the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage. An immense mausoleum of white marble, built in Agra between 1631 and 1648 by order of the Mughal emperor Shah Jahan in memory of his favourite wife, the Taj Mahal is the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage. An immense mausoleum of white marble, built in Agra between 1631 and 1648 by order of the Mughal emperor Shah Jahan in memory of his favourite wife, the Taj Mahal is the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage. An immense mausoleum of white marble, built in Agra between 1631 and 1648 by order of the Mughal emperor Shah Jahan in memory of his favourite wife, the Taj Mahal is the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage. An immense mausoleum of white marble, built in Agra between 1631 and 1648 by order of the Mughal emperor Shah Jahan in memory of his favourite wife, the Taj Mahal is the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage. An immense mausoleum of white marble, built in Agra between 1631 and 1648 by order of the Mughal emperor Shah Jahan in memory of his favourite wife, the Taj Mahal is the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage. An immense mausoleum of white marble, built in Agra between 1631 and 1648 by order of the Mughal emperor Shah Jahan in memory of his favourite wife, the Taj Mahal is the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage. An immense mausoleum of white marble, built in Agra between 1631 and 1648 by order of the Mughal emperor Shah Jahan in memory of his favourite wife, the Taj Mahal is the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage. An immense mausoleum of white marble, built in Agra between 1631 and 1648 by order of the Mughal emperor Shah Jahan in memory of his favourite wife, the Taj Mahal is the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage. An immense mausoleum of white marble, built in Agra between 1631 and 1648 by order of the Mughal emperor Shah Jahan in memory of his favourite wife, the Taj Mahal is the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage. An immense mausoleum of white marble, built in Agra between 1631 and 1648 by order of the Mughal emperor Shah Jahan in memory of his favourite wife, the Taj Mahal is the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage. An immense mausoleum of white marble, built in Agra between 1631 and 1648 by order of the Mughal emperor Shah Jahan in memory of his favourite wife, the Taj Mahal is the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage. An immense mausoleum of white marble, built in Agra between 1631 and 1648 by order of the Mughal emperor Shah Jahan in memory of his favourite wife, the Taj Mahal is the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage. An immense mausoleum of white marble, built in Agra between 1631 and 1648 by order of the Mughal emperor Shah Jahan in memory of his favourite wife, the Taj Mahal is the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage. An immense mausoleum of white marble, built in Agra between 1631 and 1648 by order of the Mughal emperor Shah Jahan in memory of his favourite wife, the Taj Mahal is the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage. An immense mausoleum of white marble, built in Agra between 1631 and 1648 by order of the Mughal emperor Shah Jahan in memory of his favourite wife, the Taj Mahal is the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage. An immense mausoleum of white marble, built in Agra between 1631 and 1648 by order of the Mughal emperor Shah Jahan in memory of his favourite wife, the Taj Mahal is the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage. ",
+    "distance": "1000 mi",
+    "location_photo": "location_photo_1.jpg",
+    "price": 10000
+  },
+  {
+    "id": 2,
+    "address": {
+      "street": "Humayun's Tomb",
+      "city": "Delhi",
+      "state": "India"
+    },
+    "description": "Humayun's tomb is the tomb of the Mughal Emperor Humayun in Delhi, India. The tomb was commissioned by Humayun's first wife Bega Begum (Haji Begum) in 1569-70, and designed by Mirak Mirza Ghiyas, a Persian architect chosen by Bega Begum.",
+    "distance": "300 mi",
+    "location_photo": "location_photo_2.jpg",
+    "price": 16500
+  },
+  {
+    "id": 3,
+    "address": {
+      "street": "Red Fort",
+      "city": "Delhi",
+      "state": "India"
+    },
+    "description": "The Red Fort complex was built as the palace fort of Shahjahanabad, the new capital of the fifth Mughal Emperor of India, Shah Jahan. Named for its massive enclosing walls of red sandstone, it is adjacent to an older fort, the Salimgarh, built by Islam Shah Suri in 1546, with which it forms the Red Fort Complex.",
+    "distance": "100 mi",
+    "location_photo": "location_photo_3.jpg",
+    "price": 15000
+  },
+  {
+    "id": 4,
+    "address": {
+      "street": "Gateway Of India",
+      "city": "Mumbai",
+      "state": "India"
+    },
+    "description": "The Gateway of India is a monument built during the 20th century in Mumbai City of Maharashtra state in Western India. It is located on the waterfront in the Apollo Bunder area in South Mumbai and overlooks the Arabian Sea. The structure is a basalt arch, 26 metres (85 feet) high.",
+    "distance": "5 mi",
+    "location_photo": "location_photo_4.jpg",
+    "price": 14300
+  },
+  {
+    "id": 5,
+    "address": {
+      "street": "Ajanta Caves",
+      "city": "Aurangabad",
+      "state": "India"
+    },
+    "description": "This world heritage site is located about 105 km from Aurangabad city. Dating from 200 BC, these caves were excavated in two distinct phases and reportedly took more than 800 years to complete. They comprise Chaityas (Shrines) dedicated to Lord Buddha, and Viharas (monasteries) used by Buddhist monks for meditation. The paintings and sculptures depict incidents from the life of the Buddha and various divinities, with the Jataka tales, illustrating stories of Bodhisattva, being the most famous.",
+    "distance": "200 mi",
+    "location_photo": "location_photo_5.jpg",
+    "price": 14500
+  },
+  {
+    "id": 6,
+    "address": {
+      "street": "Mysore Palace",
+      "city": "Mysore",
+      "state": "India"
+    },
+    "description": "The Palace of Mysore is a historical palace in the city of Mysore in Karnataka, southern India. It is the official residence and seat of the Wodeyars, the Maharajas of Mysore, the royal family of Mysore, who ruled the princely state from 1399 to 1950. The palace houses two durbar halls (ceremonial meeting halls of the royal court) and incorporates a mesmerizing and gigantic array of courtyards, gardens, and buildings.",
+    "distance": "350 mi",
+    "location_photo": "location_photo_6.jpg",
+    "price": 18000
+  },
+  {
+    "id": 7,
+    "address": {
+      "street": "Nanded Gurudwara",
+      "city": "Nanded",
+      "state": "India"
+    },
+    "description": "Hazur Sahib (presence of the master), also known as Takht Sachkhand Sri Hazur Abchalnagar Sahib and Abchal Nagar, is one of the five takhts in Sikhism. It is located on the banks of the River Godavari at the city of Nanded in the state of Maharashtra, Western India. The gurudwara within the complex is known as Sach-Khand (Realm of Truth).",
+    "distance": "250 mi",
+    "location_photo": "location_photo_7.jpg",
+    "price": 12000
+  },
+  {
+    "id": 8,
+    "address": {
+      "street": "Thanjavur Temple",
+      "city": "Thanjavur",
+      "state": "India"
+    },
+    "description": "Brihadeshwara Temple is a Hindu temple dedicated to Shiva located in Thanjavur in the Indian state of Tamil Nadu. It is also known as Periya Kovil, RajaRajeswara Temple and Rajarajeswaram It is one of the largest temples in India and is an example of Tamizh architecture during the Chola period.",
+    "distance": "100 mi",
+    "location_photo": "location_photo_8.jpg",
+    "price": 18500
+  },
+  {
+    "id": 9,
+    "address": {
+      "street": "Nalanda University",
+      "city": "Rajgir",
+      "state": "India"
+    },
+    "description": "Nalanda is the name of an ancient center of higher learning in Bihar, India. The site of Nalanda is located in the Indian state of Bihar, about 55 miles south east of Patna, and was a Buddhist center of learning from 427 to 1197 CE. It has been called one of the first great universities in recorded history.",
+    "distance": "30 mi",
+    "location_photo": "location_photo_9.jpg",
+    "price": 14000
+  },
+  {
+    "id": 10,
+    "address": {
+      "street": "Statue Of Liberty",
+      "city": "New York",
+      "state": "USA"
+    },
+    "description": "The formal name of the statue is Liberty Enlightening the World. It pictures a woman who has escaping the chains of tyranny (the broken chains lie at her feet). Libertys right hand holds a torch that is a symbol of liberty. Liberty was designed by the French sculptor Frederic Auguste Bartholdi.",
+    "distance": "1350 mi",
+    "location_photo": "location_photo_10.jpg",
+    "price": 15500
+  },
+  {
+    "id": 11,
+    "address": {
+      "street": "Doge's Palace",
+      "city": "Venice",
+      "state": "Italy"
+    },
+    "description": "The historical residence of the Doge of Venice began construction in 1340, and was extended to overlook the Piazzetta of St. Marks Square in 1424. The palace includes living quarters, rooms for business and the old prison. Eventually the prison was moved out of the palace, but the two remained connected via the Bridge of Sighs.",
+    "distance": "1200 mi",
+    "location_photo": "location_photo_11.jpg",
+    "price": 19990
+  },
+  {
+    "id": 12,
+    "address": {
+      "street": "Milan Cathedral",
+      "city": "Milan",
+      "state": "Italy"
+    },
+    "description": "Milan Cathedral (Italian: Duomo di Milano) is the cathedral church of Milan, Italy. Dedicated to St Mary of the Nativity (Santa Maria Nascente), it is the seat of the Archbishop of Milan, currently Cardinal Angelo Scola. The Gothic cathedral took nearly six centuries to complete. It is the second largest church in Italy after St. Peters Basilica in Rome and the third in the world. Until a few years ago it was the tallest building of Milan.",
+    "distance": "4000 mi",
+    "location_photo": "location_photo_12.jpg",
+    "price": 9500
+  }
+]

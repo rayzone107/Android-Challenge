@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Challenge Project</string>
+    <string name="location_image">Image</string>
+    <string name="location_price">$%1$.2f</string>
+    <string name="button_location_price">Book for $%1$.2f</string>
+    <string name="error_no_locations">No locations available</string>
+    <string name="error_data_not_available">Data not available</string>
+    <string name="error_something_went_wrong">Something went wrong</string>
+    <string name="error_title">Oops!!!</string>
+    <string name="locations">Locations</string>
+</resources>
